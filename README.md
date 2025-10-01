@@ -2,7 +2,7 @@
 <img width="354" height="626" alt="image" src="https://github.com/user-attachments/assets/eb531412-1104-4687-8c4d-e5671a09c4d3" />
 💰 Expense Tracker App (Power Apps)
 
-This is a simple Expense Tracker App built in Microsoft Power Apps to help manage and visualize personal finances.
+This is a simple Expense Tracker App built in Microsoft Power Apps to help manage and visualize personal finances using canvas app.
 
 📌 Features
 
